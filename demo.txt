@@ -456,11 +456,11 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-0/cvssscoremax-0.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 0 and 1">
-                451
+                406
                </a>
               </td>
               <td class="num">
-               0.30
+               0.20
               </td>
              </tr>
              <tr onmouseout="this.style.background=''; this.style.color='';" onmouseover="this.style.background='#F1E00A'; this.style.color='blue';">
@@ -469,7 +469,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-1/cvssscoremax-1.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 1 and 2">
-                1127
+                1129
                </a>
               </td>
               <td class="num">
@@ -482,7 +482,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-2/cvssscoremax-2.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 2 and 3">
-                7513
+                7554
                </a>
               </td>
               <td class="num">
@@ -495,7 +495,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-3/cvssscoremax-3.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 3 and 4">
-                8061
+                8088
                </a>
               </td>
               <td class="num">
@@ -508,7 +508,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-4/cvssscoremax-4.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 4 and 5">
-                38878
+                38966
                </a>
               </td>
               <td class="num">
@@ -521,11 +521,11 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-5/cvssscoremax-5.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 5 and 6">
-                31545
+                31582
                </a>
               </td>
               <td class="num">
-               19.20
+               19.10
               </td>
              </tr>
              <tr onmouseout="this.style.background=''; this.style.color='';" onmouseover="this.style.background='#F1E00A'; this.style.color='blue';">
@@ -534,7 +534,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-6/cvssscoremax-6.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 6 and 7">
-                24128
+                24188
                </a>
               </td>
               <td class="num">
@@ -547,7 +547,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-7/cvssscoremax-7.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 7 and 8">
-                33254
+                33291
                </a>
               </td>
               <td class="num">
@@ -560,7 +560,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-8/cvssscoremax-8.99/vulnerabilities.html" title="Vulnerabilities with a cvss score between 8 and 9">
-                791
+                795
                </a>
               </td>
               <td class="num">
@@ -573,7 +573,7 @@ Formatted text:
               </th>
               <td class="num">
                <a href="/vulnerability-list/cvssscoremin-9/cvssscoremax-10/vulnerabilities.html" title="Vulnerabilities with a cvss score between 9 and 10">
-                18946
+                18973
                </a>
               </td>
               <td class="num">
@@ -585,7 +585,7 @@ Formatted text:
                Total
               </th>
               <td class="num">
-               164694
+               164972
               </td>
               <td>
               </td>
@@ -607,52 +607,52 @@ Formatted text:
              </caption>
              <tr>
               <td align="center" id="barchart_0" onclick="cvssclick(0)" onmouseout="cvssmout(0)" onmouseover="cvsshover(0)" style="cursor:pointer;" title="0-1" valign="bottom">
-               451
+               406
                <br/>
                <img border="0" height="2" src="/img/cvss-0.png" width="20"/>
               </td>
               <td align="center" id="barchart_1" onclick="cvssclick(1)" onmouseout="cvssmout(1)" onmouseover="cvsshover(1)" style="cursor:pointer;" title="1-2" valign="bottom">
-               1127
+               1129
                <br/>
                <img border="0" height="4" src="/img/cvss-1.png" width="20"/>
               </td>
               <td align="center" id="barchart_2" onclick="cvssclick(2)" onmouseout="cvssmout(2)" onmouseover="cvsshover(2)" style="cursor:pointer;" title="2-3" valign="bottom">
-               7513
+               7554
                <br/>
                <img border="0" height="29" src="/img/cvss-2.png" width="20"/>
               </td>
               <td align="center" id="barchart_3" onclick="cvssclick(3)" onmouseout="cvssmout(3)" onmouseover="cvsshover(3)" style="cursor:pointer;" title="3-4" valign="bottom">
-               8061
+               8088
                <br/>
                <img border="0" height="31" src="/img/cvss-3.png" width="20"/>
               </td>
               <td align="center" id="barchart_4" onclick="cvssclick(4)" onmouseout="cvssmout(4)" onmouseover="cvsshover(4)" style="cursor:pointer;" title="4-5" valign="bottom">
-               38878
+               38966
                <br/>
                <img border="0" height="150" src="/img/cvss-4.png" width="20"/>
               </td>
               <td align="center" id="barchart_5" onclick="cvssclick(5)" onmouseout="cvssmout(5)" onmouseover="cvsshover(5)" style="cursor:pointer;" title="5-6" valign="bottom">
-               31545
+               31582
                <br/>
                <img border="0" height="122" src="/img/cvss-5.png" width="20"/>
               </td>
               <td align="center" id="barchart_6" onclick="cvssclick(6)" onmouseout="cvssmout(6)" onmouseover="cvsshover(6)" style="cursor:pointer;" title="6-7" valign="bottom">
-               24128
+               24188
                <br/>
                <img border="0" height="93" src="/img/cvss-6.png" width="20"/>
               </td>
               <td align="center" id="barchart_7" onclick="cvssclick(7)" onmouseout="cvssmout(7)" onmouseover="cvsshover(7)" style="cursor:pointer;" title="7-8" valign="bottom">
-               33254
+               33291
                <br/>
                <img border="0" height="128" src="/img/cvss-7.png" width="20"/>
               </td>
               <td align="center" id="barchart_8" onclick="cvssclick(8)" onmouseout="cvssmout(8)" onmouseover="cvsshover(8)" style="cursor:pointer;" title="8-9" valign="bottom">
-               791
+               795
                <br/>
                <img border="0" height="3" src="/img/cvss-8.png" width="20"/>
               </td>
               <td align="center" id="barchart_9" onclick="cvssclick(9)" onmouseout="cvssmout(9)" onmouseover="cvsshover(9)" style="cursor:pointer;" title="9-10" valign="bottom">
-               18946
+               18973
                <br/>
                <img border="0" height="73" src="/img/cvss-9.png" width="20"/>
               </td>
